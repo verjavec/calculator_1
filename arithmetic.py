@@ -6,7 +6,6 @@ def add(num1, num2):
 
     # Add num1 plus num2
     # Return the result
-    print(num1 + num2)
     return(num1 + num2)
 
 
@@ -34,7 +33,7 @@ def square(num1):
     """Return the square of the input."""
     # Find the square of the input
     # Return the result
-    return(num1**0.5)
+    return(num1**2)
 
 def cube(num1):
     """Return the cube of the input."""
